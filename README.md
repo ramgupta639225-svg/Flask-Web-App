@@ -14,7 +14,7 @@ The application stores user data in a SQLite database and sends a confirmation e
 - Clean UI using Bootstrap 5
 
 ---
-
+ 
 ## 🛠️ Technologies Used
 
 - Python
